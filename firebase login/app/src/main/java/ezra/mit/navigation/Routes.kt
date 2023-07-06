@@ -1,0 +1,17 @@
+package ezra.mit.navigation
+
+const val ROUTE_LOGIN = "login"
+const val ROUTE_SIGNUP = "signup"
+const val ROUTE_HOME = "home"
+const val ROUTE_ABOUT = "about"
+const val ROUTE_INTRO = "INTRO"
+const val ROUTE_CLASS = "CLASS"
+const val ROUTE_Label = "Label"
+const val ROUTE_Drawer = "Drawer"
+const val ROUTE_STRUCT = "fEE STRUCTURE"
+const val ROUTE_Rate = "Rate me "
+const val ROUTE_STU = "STUDENTS"
+const val ROUTE_Pay = "payment"
+const val ROUTE_Reci = "Reciept"
+const val ROUTE_Code = "Codes"
+const val ROUTE_Pro = "Profile"
